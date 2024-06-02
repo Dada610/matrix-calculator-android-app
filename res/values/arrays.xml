@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Determinant</item>
+        <item>Inverse</item>
+        <item>Transpose</item>
+        <item>Rank</item>
+        <item>Multiply by Scalar</item>
+        <item>Row Echelon Form</item>
+        <item>Diagonal Matrix</item>
+        <item>To the Power of</item>
+        <item>LU Decomposition</item>
+        <item>Cholesky Decomposition</item>
+        <item>Solve Linear System</item>
+    </string-array>
+</resources>

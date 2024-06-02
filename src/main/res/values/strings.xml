@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">matrix calc</string>
+    <string name="result">Result:</string>
+    <string name="enter_matrix_a">Enter Matrix A</string>
+    <string name="enter_matrix_b">Enter Matrix B</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear_history">Clear History</string>
+    <string name="result_will_be_displayed_here">Result will be displayed here</string>
+    <string name="cells">cells</string>
+    <string name="text">text</string>
+</resources>
